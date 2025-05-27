@@ -1,4 +1,4 @@
-# 🇵🇰 Pakistan Shortest Path Visualizer: VertexVoyage 🚗📍
+# VertexVoyage: Pakistan Shortest Path Visualizer 🚗📍
 
 An interactive C++ application that visualizes the **shortest path** between Pakistani cities on a real map using **Dijkstra's Algorithm**. Built with **SFML**, this tool lets you input source, destination, and multiple stops, and visualizes the most efficient route.  
 
@@ -12,7 +12,7 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 
 ---
 
-## ⚙️ SFML Setup (Windows & The Visual Studio)
+## ⚙️ SFML Setup (Windows & Visual Studio)
 
 1. 🔽 **Download SFML**  
    Get it from: https://www.sfml-dev.org/download/sfml/2.5.1/
@@ -47,22 +47,27 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 4. ➕ Optionally add intermediate stops.
 5. 🎯 Watch the shortest path get visualized!
 
+---
 
 ## 📂 Project Structure
 ````
 
 📁 Project/
-├── map.jpg # Background image of Pakistan map
-├── main.cpp # Entry point with GUI and logic
-├── graph.cpp/.h # Graph class with Dijkstra algorithm
-├── city_coordinates.txt # Hardcoded city coordinates
-├── adjacency.txt # Graph edge data
-├── README.md # This file!
+├── Output-Image.jpg       # Background image of Pakistan map
+├── main.cpp               # Entry point with GUI and logic
+├── graph.cpp/.h           # Graph class with Dijkstra algorithm
+├── Secret.txt             # Hardcoded city coordinates
+├── adjacency.txt          # Graph edge data
+├── README.md              # This file!
+
 ```
 
 ---
 
+## 📸 Screenshots  
+Output-Image.png
 
+---
 
 ## 🧑‍💻 Author  
 **Umm-e-Habiba Imran**  
@@ -76,3 +81,5 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 ```
 
 ---
+
+
