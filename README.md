@@ -1,9 +1,4 @@
-Here’s a `README.md` file for your **Pakistan Shortest Path Visualizer** project, with emojis, description, setup steps for SFML, and how to run the project:
-
----
-
-````markdown
-# 🇵🇰 Pakistan Shortest Path Visualizer 🚗📍
+# 🇵🇰 Pakistan Shortest Path Visualizer: VertexVoyage 🚗📍
 
 An interactive C++ application that visualizes the **shortest path** between Pakistani cities on a real map using **Dijkstra's Algorithm**. Built with **SFML**, this tool lets you input source, destination, and multiple stops, and visualizes the most efficient route.  
 
