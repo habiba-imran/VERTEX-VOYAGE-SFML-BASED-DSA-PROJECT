@@ -56,8 +56,7 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 ├── main.cpp # GUI + user input handling + visual drawing
 ├── graph.cpp # Graph implementation with Dijkstra's algorithm
 ├── graph.h # Graph class declaration
-├── Secret.txt # Coordinates (x, y) of cities used on the map
-├── adjacency.txt # Weighted adjacency list of the graph (edges and costs)
+├── Secret.txt # Weighted adjacency list of the graph (edges: distances between the cities)
 ├── README.md # Project description and setup guide
 
 ---
