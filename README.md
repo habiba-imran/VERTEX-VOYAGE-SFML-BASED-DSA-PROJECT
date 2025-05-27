@@ -12,7 +12,7 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 
 ---
 
-## ⚙️ SFML Setup (Windows & Visual Studio)
+## ⚙️ SFML Setup (Windows & The Visual Studio)
 
 1. 🔽 **Download SFML**  
    Get it from: https://www.sfml-dev.org/download/sfml/2.5.1/
@@ -47,19 +47,17 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 4. ➕ Optionally add intermediate stops.
 5. 🎯 Watch the shortest path get visualized!
 
----
 
 ## 📂 Project Structure
 ````
 
 📁 Project/
-├── Output-Image.jpg       # Background image of Pakistan map
-├── main.cpp               # Entry point with GUI and logic
-├── graph.cpp/.h           # Graph class with Dijkstra algorithm
-├── Secret.txt             # Hardcoded city coordinates
-├── adjacency.txt          # Graph edge data
-├── README.md              # This file!
-
+├── map.jpg # Background image of Pakistan map
+├── main.cpp # Entry point with GUI and logic
+├── graph.cpp/.h # Graph class with Dijkstra algorithm
+├── city_coordinates.txt # Hardcoded city coordinates
+├── adjacency.txt # Graph edge data
+├── README.md # This file!
 ```
 
 ---
