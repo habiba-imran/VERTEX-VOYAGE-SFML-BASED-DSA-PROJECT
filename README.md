@@ -52,12 +52,12 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 ## 📂 Project Structure
 
 📁 Project/
-├── Output-Image.jpg # Background image of the Pakistan map
-├── main.cpp # GUI + user input handling + visual drawing
-├── graph.cpp # Graph implementation with Dijkstra's algorithm
-├── graph.h # Graph class declaration
-├── Secret.txt # Weighted adjacency list of the graph (edges: distances between the cities)
-├── README.md # Project description and setup guide
+├── Output-Image.jpg # Background image of the Pakistan map <br>
+├── main.cpp # GUI + user input handling + visual drawing <br>
+├── graph.cpp # Graph implementation with Dijkstra's algorithm <br>
+├── graph.h # Graph class declaration <br>
+├── Secret.txt # Weighted adjacency list of the graph (edges: distances between the cities) <br>
+├── README.md # Project description and setup guide <br>
 
 ---
 
