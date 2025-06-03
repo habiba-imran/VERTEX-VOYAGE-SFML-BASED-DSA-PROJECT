@@ -51,7 +51,7 @@ An interactive C++ application that visualizes the **shortest path** between Pak
 
 ## 📂 Project Structure
 
-📁 Project/ <br>
+📁 Project/ <br> <br>
 ├── Output-Image.jpg 
 # Background image of the Pakistan map <br>
 ├── main.cpp 
